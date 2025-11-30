@@ -1,0 +1,2 @@
+First write, this content replaces previous data.
+--- New content ---
